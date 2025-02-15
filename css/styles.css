@@ -34,7 +34,7 @@ color: #4d5ae5;
     color:  #2e2f42;
 }
 .nav-header {
-}
+    display: flex;}
 .header-nav-list {
 }
 .nav-header-item {
