@@ -25,6 +25,7 @@ img {display: block;}
     padding-right: 15px;
     margin: 0 auto;
 }
+
 /* #region header */
 .header {
     border-bottom: 1px solid #e7e9fc;
@@ -112,9 +113,11 @@ margin-right: 76px;
 /* #endregion header */
 /* #region hero*/
 .hero {
-background-color: #2e2f42;
-padding: 188px 0;
+    background-color: #2e2f42;
+    padding-top: 188px;
+    padding-bottom: 188px;
 }
+
 
 .visually-hidden 
 {
@@ -155,7 +158,6 @@ background-color: #4d5ae5;
 cursor: pointer;
 display: block;
 margin: 0 auto;
-margin-bottom: 188px;
 min-width: 169px;
 height: 56px;
 border: none;
